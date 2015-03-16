@@ -25,3 +25,13 @@ Git is a distuihfkjefhkj
 
 
 practice3 czr520
+
+
+
+
+
+
+
+
+
+为什么说git 管理跟踪的 是修改而并非文件，实验1
